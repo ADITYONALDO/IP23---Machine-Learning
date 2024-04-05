@@ -1,6 +1,9 @@
 # IP23---Machine-Learning
 This repository contains code and documents for the Internship Program of Machine Learning Domain.
 
+
+
+## Download Dependencies
 Please download the required dependencies mentioned in the 'requirements.txt' file, by using the command:
 
-## pip install -r requirements.txt
+pip install -r requirements.txt
